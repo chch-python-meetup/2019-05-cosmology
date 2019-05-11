@@ -1,0 +1,135 @@
+ 
+PRIME_NUMBER_OPENMP
+  FORTRAN90/OpenMP version
+ 
+  Number of processors available =        4
+  Number of threads =                     1
+ 
+PRIME_NUMBER_SWEEP_OPENMP
+  Call PRIME_NUMBER to count the primes from 1 to N.
+ 
+         N        Pi          Time
+ 
+         1         0  0.749600E-05
+         2         1  0.287200E-05
+         4         2  0.107800E-05
+         8         4  0.110900E-05
+        16         6  0.129300E-05
+        32        11  0.195800E-05
+        64        18  0.374700E-05
+       128        31  0.899201E-05
+       256        54  0.284280E-04
+       512        97  0.934490E-04
+      1024       172  0.326241E-03
+      2048       309  0.107325E-02
+      4096       564  0.380153E-02
+      8192      1028  0.141119E-01
+     16384      1900  0.534676E-01
+     32768      3512  0.188644    
+     65536      6542  0.687015    
+    131072     12251   2.55467    
+ 
+PRIME_NUMBER_SWEEP_OPENMP
+  Call PRIME_NUMBER to count the primes from 1 to N.
+ 
+         N        Pi          Time
+ 
+         5         3  0.219500E-05
+        50        15  0.286700E-05
+       500        95  0.807390E-04
+      5000       669  0.536817E-02
+     50000      5133  0.417744    
+    500000     41538   32.3579    
+ 
+PRIME_NUMBER_OPENMP
+  Normal end of execution.
+ 
+PRIME_NUMBER_OPENMP
+  FORTRAN90/OpenMP version
+ 
+  Number of processors available =        4
+  Number of threads =                     2
+ 
+PRIME_NUMBER_SWEEP_OPENMP
+  Call PRIME_NUMBER to count the primes from 1 to N.
+ 
+         N        Pi          Time
+ 
+         1         0  0.609360E-04
+         2         1  0.256500E-05
+         4         2  0.171300E-05
+         8         4  0.186600E-05
+        16         6  0.365100E-05
+        32        11  0.441400E-05
+        64        18  0.320699E-05
+       128        31  0.775000E-05
+       256        54  0.260440E-04
+       512        97  0.829510E-04
+      1024       172  0.277909E-03
+      2048       309  0.744839E-03
+      4096       564  0.275362E-02
+      8192      1028  0.108043E-01
+     16384      1900  0.382610E-01
+     32768      3512  0.155719    
+     65536      6542  0.506221    
+    131072     12251   1.91639    
+ 
+PRIME_NUMBER_SWEEP_OPENMP
+  Call PRIME_NUMBER to count the primes from 1 to N.
+ 
+         N        Pi          Time
+ 
+         5         3  0.205600E-05
+        50        15  0.222400E-05
+       500        95  0.590840E-04
+      5000       669  0.402954E-02
+     50000      5133  0.303465    
+    500000     41538   23.8040    
+ 
+PRIME_NUMBER_OPENMP
+  Normal end of execution.
+ 
+PRIME_NUMBER_OPENMP
+  FORTRAN90/OpenMP version
+ 
+  Number of processors available =        4
+  Number of threads =                     4
+ 
+PRIME_NUMBER_SWEEP_OPENMP
+  Call PRIME_NUMBER to count the primes from 1 to N.
+ 
+         N        Pi          Time
+ 
+         1         0  0.811600E-04
+         2         1  0.250000E-05
+         4         2  0.157300E-05
+         8         4  0.165000E-05
+        16         6  0.163100E-05
+        32        11  0.169100E-05
+        64        18  0.244600E-05
+       128        31  0.550400E-05
+       256        54  0.149230E-04
+       512        97  0.559420E-04
+      1024       172  0.186181E-03
+      2048       309  0.673506E-03
+      4096       564  0.254945E-02
+      8192      1028  0.902871E-02
+     16384      1900  0.294179E-01
+     32768      3512  0.104792    
+     65536      6542  0.390701    
+    131072     12251   1.45766    
+ 
+PRIME_NUMBER_SWEEP_OPENMP
+  Call PRIME_NUMBER to count the primes from 1 to N.
+ 
+         N        Pi          Time
+ 
+         5         3  0.264700E-05
+        50        15  0.234500E-05
+       500        95  0.541550E-04
+      5000       669  0.361472E-02
+     50000      5133  0.235463    
+    500000     41538   17.6688    
+ 
+PRIME_NUMBER_OPENMP
+  Normal end of execution.
